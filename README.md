@@ -3,6 +3,12 @@
     🌱 I’m currently learning 摸鱼
     
     ⚡ Fun fact game!!!
+     
+    💬 Ask me about Java&Go
+    
+    😄 Pronouns: 萌新/蒟蒻/腿部挂件
+    
+    📫 How to reach me: Look down! Please!
     
     
         
