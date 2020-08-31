@@ -13,7 +13,7 @@
     
    
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liqiqiorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
         
 ## 联系我
 QQ:1099462011
