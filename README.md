@@ -2,7 +2,7 @@
     
   
     
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=bluebell)](https://github.com/baijianruoliorz/bluebell)    
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=bluebell)](https://github.com/baijianruoliorz/bluebell)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=MNclass)](https://github.com/baijianruoliorz/mengnanClass)    
    
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
