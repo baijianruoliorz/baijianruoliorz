@@ -1,32 +1,16 @@
-### Hi there 👋
-
-    🌱 I’m currently learning 摸鱼
+### Hi there 👋                                     💬 Ask me about Java&Go
     
-    ⚡ Fun fact game!!!
-     
-    💬 Ask me about Java&Go
-    
-    😄 Pronouns: 萌新/蒟蒻/腿部挂件
-    
-    📫 How to reach me: Look down! Please!
+  
     
     
    
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-        
-## 联系我
-QQ:1099462011
+  
+  
 
-Line:liqiqiorz
 
-Twitter:@roz97101
-
-Facebook:杨祥瑞
-
-Telegram: liqiqiorz
-
-Gayhub:baijianruoliorz
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baijianruoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
