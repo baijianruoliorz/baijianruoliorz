@@ -1,15 +1,21 @@
 ### Hi there 👋                                     💬 Ask me about Java&Go
     
   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=yxr-study-in-XDU)](https://github.com/baijianruoliorz/yxr-study-in-XDU)        
     
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=bluebell)](https://github.com/baijianruoliorz/bluebell)    
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=mengnanclass)](https://github.com/baijianruoliorz/mengnanClass)    
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=mengnanClass)](https://github.com/baijianruoliorz/mengnanClass)    
+
+
    
+   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=renting_springboot)](https://github.com/baijianruoliorz/renting_springboot)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  
+
 
 
 
