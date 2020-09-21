@@ -2,7 +2,7 @@
     
   
     
-    
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=bluebell)](https://github.com/baijianruoliorz/bluebell)    
    
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baijianruoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
