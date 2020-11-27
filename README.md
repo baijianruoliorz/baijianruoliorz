@@ -6,11 +6,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Programming-With-Love&repo=bluebell)](https://github.com/Programming-With-Love/bluebell)    
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=mengnanClass)](https://github.com/baijianruoliorz/mengnanClass)    
 
 
-   
-   
+     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=6.824)](https://github.com/baijianruoliorz/6.824)
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
