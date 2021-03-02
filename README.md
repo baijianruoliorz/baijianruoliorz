@@ -11,20 +11,6 @@
      
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=6.824)](https://github.com/baijianruoliorz/6.824)
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baijianruoliorz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-
-
-
-
-
-
-
-![image](https://edu-1014.oss-cn-beijing.aliyuncs.com/TIM%E5%9B%BE%E7%89%8720200629225320.jpg)
-
-
-使命は、何としても完成するのか.
 
 
  
