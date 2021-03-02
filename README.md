@@ -1,7 +1,7 @@
 ### Hi there 👋                                     💬 Ask me about Java&Go
     
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=xidian-admin)](https://github.com/baijianruoliorz/xidian-admin)       [![ReadMe Car(https://github-readme-stats.vercel.app/api/pin/?username=Programming-With-Love&repo=bluebell)](https://github.com/Programming-With-Love/bluebell)   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=xidian-admin)](https://github.com/baijianruoliorz/xidian-admin)       [![ReadMe Card(https://github-readme-stats.vercel.app/api/pin/?username=Programming-With-Love&repo=bluebell)](https://github.com/Programming-With-Love/bluebell)
 
 
      
