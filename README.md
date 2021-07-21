@@ -1,4 +1,4 @@
-### Hi there 👋                                     💬 Ask me about Java&Go
+### Hi there 👋                                     💬 Ask me about Golang
     
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=reviewGo)](https://github.com/baijianruoliorz/reviewGo)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Programming-With-Love&repo=bluebell)](https://github.com/Programming-With-Love/bluebell)
