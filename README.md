@@ -1,13 +1,6 @@
 ### Hi there 👋                                     💬 Ask me about Golang
     
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=reviewGo)](https://github.com/baijianruoliorz/reviewGo)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Programming-With-Love&repo=bluebell)](https://github.com/Programming-With-Love/bluebell)
-
-
-     
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=baijianruoliorz&repo=6.824)](https://github.com/baijianruoliorz/6.824)
-
-<iframe height="700" src="https://www.yunyoujun.cn/air-conditioner/"></iframe>
 
 
 
